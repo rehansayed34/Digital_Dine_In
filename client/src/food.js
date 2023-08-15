@@ -1,0 +1,45 @@
+const dishes = [
+    {
+        name:"Butter Chicken",
+        price:300,
+        description:"Non veg gravy",
+        image:"https://st.depositphotos.com/2252541/2379/i/450/depositphotos_23796047-stock-photo-butter-chicken.jpg",
+        category:"main",
+    },
+    {
+        name:"Garlic Naan",
+        price:30,
+        description:"Indian Bread with a hint of garlic",
+        image:"https://images.pexels.com/photos/10337726/pexels-photo-10337726.jpeg?cs=srgb&dl=pexels-alberta-studios-10337726.jpg&fm=jpg",
+        category:"main",
+    },
+    {
+        name:"Chicken 65",
+        price:150,
+        description:"Dry chicken starter",
+        image:"https://1.bp.blogspot.com/-yJBQwqQcUOs/X5gtEJXEoCI/AAAAAAAAY94/gut_UssF__8lT0P2kl9patf4FY-U4YCtQCLcBGAsYHQ/s2048/chicken%2B65%2B4.JPG",
+        category:"start",
+    },
+    {
+        name:"Paneer Tikka",
+        price:150,
+        description:"Grilled paneer starter",
+        image:"https://www.krumpli.co.uk/wp-content/uploads/2021/09/Paneer-Tikka-Kebabs-04-960x960.jpg.webp",
+        category:"start",
+    },
+    {
+        name:"Veg Pulav",
+        price:200,
+        description:"Rice delicacy",
+        image:"https://desertfoodfeed.com/wp-content/uploads/2020/05/vegetable-pulao-1024x576.jpg",
+        category:"main",
+    },
+    {
+        name:"Gulab jamun",
+        price:70,
+        description:"Indian Sweet Dish",
+        image:"https://sp-ao.shortpixel.ai/client/q_glossy,ret_img/https://www.positivenewstrends.com/wp-content/uploads/2019/08/Gulab-Jamun-Serve-hot-600x384.png",
+        category:"des",
+    },
+]
+export default dishes
