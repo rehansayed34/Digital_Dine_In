@@ -1,7 +1,7 @@
-# Restaurant_Menu_Website
+# Digital Dine-In Ordering System
 **A MERN stack website enabling diners to place orders on their devices**
 
-Digital Dine-In Ordering System: A personal project undertaken to transition traditional dine-in methods to a digital format. Through this platform, diners can access the menu and place orders seamlessly, reducing the dependency on printed menus.
+A personal project undertaken to transition traditional dine-in methods to a digital format. Through this platform, diners can access the menu and place orders seamlessly, reducing the dependency on printed menus.
 
 🔑 Key Features:
 
