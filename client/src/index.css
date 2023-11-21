@@ -224,11 +224,12 @@ body{
 .fixedmenu>h1{
   font-family: 'Petit Formal Script', cursive !important;
   font-weight: bold;
-  color:white;
+  color:black;
   font-size: 100px;
 }
 .fixedmenu p{
   font-size: 30px;
+  color:black;
 }
 
 #btadmin{

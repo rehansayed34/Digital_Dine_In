@@ -23,7 +23,7 @@ export default class OrdersPage extends React.Component{
     return (
           <div className="adminbox">
               <div className='rowadmin' id = "row1admin">
-                {this.state.newitems!==[]?this.state.newitems.map(dish=>
+                {this.state.newitems!=[]?this.state.newitems.map(dish=>
                   {
                       return (<div className='col-md-12' key={dish._id}>
                           <Order dish = {dish} />
